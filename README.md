@@ -1,5 +1,6 @@
-# sfmc-blogs
+# SalesForce Marketing Cloud Knowledge
 
+## Blogs
 HowToSFMC: https://www.howtosfmc.com/ <br />
 Eliot Harper McChat: https://www.youtube.com/channel/UCyxpMhYIPxuRcyHNOJw_bVA  <br />
 Adam Spriggs Known Issues: https://sprignaturemoves.com/sfmcki.php  <br />
